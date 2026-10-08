@@ -3,7 +3,7 @@
 // Награда и штраф: целые числа от 0 до 1000 рублей (без знака минус).
 window.EVA_CONFIG = {
   reward: 2,
-  penalty: 4,
+  penalty: 3,
   topics: {
     "arithmetic": true,      // Сложение и вычитание
     "multiplication": true,  // Таблица умножения
@@ -11,7 +11,7 @@ window.EVA_CONFIG = {
     "non-table": true,       // Внетабличные действия
     "operations": true,      // Порядок действий
     "equations": true,       // Уравнения
-    "geometry": true,        // Геометрия
+    "geometry": false,        // Геометрия
     "measurements": true,    // Единицы измерения
     "word-problems": true,   // Текстовые задачи
     "fractions": false        // Доли числа
