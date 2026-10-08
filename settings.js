@@ -13,7 +13,7 @@ window.EVA_CONFIG = {
     "equations": true,       // Уравнения
     "geometry": false,        // Геометрия
     "measurements": false,    // Единицы измерения
-    "word-problems": true,   // Текстовые задачи
+    "word-problems": false,   // Текстовые задачи
     "fractions": false        // Доли числа
   }
 };
