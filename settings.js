@@ -2,8 +2,8 @@
 // После сохранения обновите страницу игры. true — включено, false — выключено.
 // Награда и штраф: целые числа от 0 до 1000 рублей (без знака минус).
 window.EVA_CONFIG = {
-  reward: 2,
-  penalty: 3,
+  reward: 3,
+  penalty: 2,
   topics: {
     "arithmetic": true,      // Сложение и вычитание
     "multiplication": true,  // Таблица умножения
